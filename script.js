@@ -25,3 +25,4 @@
       var theMessage = "Computer choose rock, you " + result + "!"
       alert(theMessage);
       say(theMessage);
+    }
